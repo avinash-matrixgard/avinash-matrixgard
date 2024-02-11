@@ -2,6 +2,7 @@ MatrixGard stands as a beacon at the intersection of cybersecurity, cloud comput
 
 Our Realm of Expertise 🛡️🚀
 Cybersecurity: We are the digital sentinels, offering a shield against the tempest of cyber threats with our advanced threat intelligence and incident response strategies.
+
 Cloud Services: With us, the cloud is not just a service but a canvas, on which we paint scalable, secure, and efficient infrastructures.
 
 DevOps & CI/CD: We are the alchemists of development, turning leaden processes into gold with streamlined workflows and enhanced pipelines.
