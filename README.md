@@ -9,15 +9,10 @@ DevOps & CI/CD: We are the alchemists of development, turning leaden processes i
 
 Training & Development: Our academy of the future is always open, fostering growth through workshops and resources that propel you into tomorrow.
 
-Projects: Innovations for the Digital Age 🌐💡
-
-Project Alpha: A guardian of gateways, this open-source firewall management tool stands vigilant.
-
-Project Beta: Our cloud infrastructure monitoring solution, an all-seeing eye in the sky of digital realms.
+What Projects We like to work on: Innovations for the Digital Age 🌐💡
 
 Project Gamma: A suite of DevOps tools, crafted to perfect the art of CI/CD, ensuring your operations run as smoothly as the rivers of time.
 Dive into our projects and witness how we're sculpting a safer, more efficient digital world.
-
 
 Join the Odyssey 🌠🤝
 Contribute: Venture into our open issues or forge new features with our Contribution Guidelines as your map.
